@@ -1,1 +1,1 @@
-web: gunicorn TarefasApp.wsgi --log-file -
+web: gunicorn TarefasApp.wsgi:django-polls --log-file -
