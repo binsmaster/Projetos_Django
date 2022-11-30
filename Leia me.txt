@@ -1,6 +1,6 @@
 TarefasApp
 
-Usuarios Admins:
+Usuarios Admins padrao projeto:
 
 bins
 binsmaster
