@@ -1,0 +1,33 @@
+TarefasApp
+
+Usuarios Admins:
+
+bins
+binsmaster
+senha
+Bins1010@
+
+LIGAR O BD (usando o XAMPP)
+
+instalar django
+pip install django
+
+django-admin startproject TarefasApp .
+django-admin startapp core
+django-admin accounts .
+django-admin startproject task .
+
+depois os arquivos .py das pastas do App.
+
+
+BD
+python manage.py makemigrations
+python manage.py migrate
+
+CRIAR USER
+python manage.py createsuperuser
+
+
+EXECUTAR
+python manage.py runserver
+
